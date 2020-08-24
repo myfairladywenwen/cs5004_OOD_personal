@@ -1,2 +1,2 @@
 # cs5004_OOD
-course code for OOD
+personal course code for OOD, hw and lab
