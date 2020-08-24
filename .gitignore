@@ -1,0 +1,10 @@
+*.DS_Store
+*/gradlew
+*/gradlew.bat
+*/settings.gradle
+*/.idea/*
+*/gradle/wrapper/*
+*/build/*
+.gitignore~
+*/.gradle/*
+.gradle/
