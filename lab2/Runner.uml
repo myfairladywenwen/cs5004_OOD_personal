@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Diagram>
+  <ID>JAVA</ID>
+  <OriginalElement>problem1.Runner</OriginalElement>
+  <nodes>
+    <node x="0.0" y="325.0">problem1.Runner</node>
+    <node x="73.5" y="0.0">problem1.Athlete</node>
+  </nodes>
+  <notes />
+  <edges>
+    <edge source="problem1.Runner" target="problem1.Athlete">
+      <point x="0.0" y="-115.5" />
+      <point x="0.0" y="137.5" />
+    </edge>
+  </edges>
+  <settings layout="Hierarchic Group" zoom="1.0" x="62.5" y="60.0" />
+  <SelectedNodes>
+    <node>problem1.Runner</node>
+  </SelectedNodes>
+  <Categories>
+    <Category>Fields</Category>
+    <Category>Constructors</Category>
+    <Category>Methods</Category>
+    <Category>Properties</Category>
+    <Category>Inner Classes</Category>
+  </Categories>
+  <SCOPE>All</SCOPE>
+  <VISIBILITY>private</VISIBILITY>
+</Diagram>
+
